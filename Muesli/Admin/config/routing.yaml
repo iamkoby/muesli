@@ -1,0 +1,11 @@
+homepage:
+    url: /
+    controller: Main
+    action: index
+
+defaultIndex:
+    url: /:controller
+    action: index
+
+default:
+    url: /:controller/:action

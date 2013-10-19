@@ -1,0 +1,5 @@
+homepage:
+  admin:
+    title: עמוד הבית
+  template: homepage
+  cache: false

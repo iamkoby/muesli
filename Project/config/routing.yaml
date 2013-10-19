@@ -1,0 +1,6 @@
+homepage: 
+  url: /
+  page: homepage
+
+default: 
+  url: /:page
