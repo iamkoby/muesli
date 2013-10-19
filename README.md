@@ -1,4 +1,4 @@
 muesli
 ======
 
-Customized CMS with beautiful and easy Admin Panel.
+Customized CMS with a beautiful and easy Admin Panel.
