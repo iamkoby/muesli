@@ -1,4 +1,4 @@
 muesli
 ======
 
-CMS for developers
+Customized CMS with beautiful and easy Admin Panel.
